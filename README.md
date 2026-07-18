@@ -43,8 +43,8 @@ CODSOFT/
 
 ## 🛠️ Technologies Used
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 - Git
 - GitHub
@@ -62,6 +62,3 @@ The goal of this internship was to strengthen my frontend web development skills
 
 - **GitHub:** https://github.com/PATNAMSRAVANKUMAR
 
----
-
-⭐ Thank you for visiting this repository. Feel free to explore the projects and provide your feedback!
