@@ -50,5 +50,5 @@ The goal of this internship was to strengthen my frontend web development skills
 
 ## 📬 Contact
 
-- **GitHub:** https://github.com/PATNAMSRAVANKUMAR
+- GitHub:🔗 https://github.com/PATNAMSRAVANKUMAR
 
