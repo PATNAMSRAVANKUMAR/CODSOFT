@@ -29,18 +29,8 @@ CODSOFT/
 │── Task3-Calculator/
 │── index.html
 └── README.md
-```
 
 ---
-
-## 🌐 Live Projects
-
-- 🔗 **Portfolio:   ** https://patnamsravankumar.github.io/codsoft_tasks/Task1-Portfolio/
-- 🔗 **Landing Page:** https://patnamsravankumar.github.io/codsoft_tasks/Task2-Landing-page/
-- 🔗 **Calculator:  ** https://patnamsravankumar.github.io/codsoft_tasks/Task3-Calculator/
-
----
-
 ## 🛠️ Technologies Used
 
 - HTML
